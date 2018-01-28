@@ -1,0 +1,187 @@
+ *,
+ *:before,
+ *:after {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ .starter-template {
+     padding: 3rem 1.5rem;
+     text-align: center;
+ }
+ 
+ body {
+     font-family: 'Poppins', sans-serif;
+ }
+ 
+ h1 {
+     font-size: 2.75em;
+     font-weight: bold;
+     color: #2ABB9B;
+ }
+ 
+ h3 {
+     font-weight: bold;
+     color: #2ABB9B;
+ }
+ 
+ img {
+     width: 325px;
+     height: 200px;
+     max-width: 100%;
+ }
+ 
+ p {
+     font-size: 1.25em;
+ }
+ /*BIG TITLE*/
+ 
+ .big_title {
+     display: block;
+     margin-bottom: 50px;
+     border-right: 10px solid #3FC380;
+ }
+ 
+ .fontzero {
+     font-size: 0;
+ }
+ 
+ .sub {
+     font-weight: bold;
+     font-size: 3.5em;
+     color: #D35400;
+ }
+ 
+ .contrate {
+     color: black;
+     font-weight: 900;
+ }
+ 
+ .artigo {
+     border-style: outset;
+ }
+ 
+ .fa {
+     padding: 20px;
+     color: #2ABB9B;
+ }
+ 
+ .fa:hover {
+     color: #1E824C;
+ }
+ 
+ label {
+     font-weight: 600;
+     text-transform: uppercase;
+     font-size: 2em;
+     color: #22313F;
+ }
+ 
+ nav {
+     background-color: #333333;
+ }
+ 
+ ul li a {
+     text-align: center;
+     font-weight: bold;
+     font-size: 1.25em;
+     color: #BDC3C7;
+     padding: 20px;
+ }
+ 
+ .header_site {
+     background-image: url(../img/principal.jpg);
+     background-position: center top;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     /*fazer a imagem não sair do lugar*/
+     color: aliceblue;
+     padding-top: 300px;
+     padding-bottom: 300px;
+     opacity: 0.8;
+     height: 100%;
+     width: 100%;
+     display: flex;
+ }
+ 
+ .principal h1 {
+     color: #22313F;
+     font-weight: 900;
+ }
+ 
+ .principal h1:hover {
+     color: #013243;
+     font-size: 3.55em;
+ }
+ 
+ .sv {
+     padding-bottom: 50px;
+ }
+ 
+ .conteudo {
+     padding-top: 20px;
+ }
+ 
+ .paralax {
+     background-image: url(../img/paralax.jpg);
+     background-position: center top;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     /*fazer a imagem não sair do lugar*/
+     color: aliceblue;
+     padding-top: 250px;
+     padding-bottom: 250px;
+     opacity: 0.7;
+ }
+ 
+ .contato {
+     background-color: #91B496;
+     padding-bottom: 1px;
+     padding-top: 1px;
+ }
+ 
+ .form {
+     font-size: 3em;
+     text-transform: uppercase;
+     color: white;
+ }
+ 
+ footer {
+     background-image: url(../img/footer.jpg);
+     background-position: center top;
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-attachment: fixed;
+     /*fazer a imagem não sair do lugar*/
+     color: aliceblue;
+     padding-top: 70px;
+     padding-bottom: 70px;
+     opacity: 0.7;
+ }
+ 
+ a:link {
+     text-decoration: none;
+ }
+ 
+ a:hover {
+     color: #26C281 !important;
+ }
+ 
+ footer p {
+     color: yellow;
+     font-weight: bolder;
+ }
+ 
+ footer .fa {
+     color: yellow;
+ }
+ 
+ footer h3 {
+     color: yellow;
+ }
+ 
+ footer a {
+     color: yellow;
+ }
